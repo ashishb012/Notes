@@ -1,4 +1,4 @@
-# Git Tag Command Guide
+# Git Tag Command
 
 The basic syntax of `git tag` is:
 
@@ -23,6 +23,7 @@ git tag [<options>]
 ```
 
 Options:
+
 - `-l`, `--list`: List tags (optional, as it's the default operation)
 - `--sort=<key>`: Sort tags by a specific key (e.g., `-v:refname` for version sort)
 - `--format=<format>`: Format the tag listing
@@ -32,6 +33,7 @@ Options:
 - `--column[=<options>]`, `--no-column`: Display tag listing in columns
 
 Example:
+
 ```
 git tag --list --sort=-v:refname
 ```
@@ -51,6 +53,7 @@ git tag -a <tagname> -m "<message>" [<commit>]
 ```
 
 Options:
+
 - `-a`, `--annotate`: Create an annotated tag
 - `-m <msg>`, `--message=<msg>`: Tag message
 - `-F <file>`, `--file=<file>`: Read message from file
@@ -59,6 +62,7 @@ Options:
 - `--cleanup=<mode>`: Cleanup the tag message
 
 Example:
+
 ```
 git tag -a v1.4 -m "Release version 1.4"
 ```
@@ -70,9 +74,11 @@ git tag -d <tagname>...
 ```
 
 Options:
+
 - `-d`, `--delete`: Delete one or more tags
 
 Example:
+
 ```
 git tag -d v1.4 v1.5
 ```
@@ -84,9 +90,11 @@ git tag -v [<tagname>]
 ```
 
 Options:
+
 - `-v`, `--verify`: Verify the GPG signature of tags
 
 Example:
+
 ```
 git tag -v v1.4.2
 ```
@@ -101,6 +109,7 @@ git push [<remote>] <tagname>
 ```
 
 Example:
+
 ```
 git push origin v1.5
 ```

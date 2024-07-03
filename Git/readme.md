@@ -60,3 +60,4 @@ git push origin main
 - [Git Pull](git-pull-explanation.md)
 - [Git Reflog](git-reflog-explanation.md)
 - [Git Show](git-show-explanation.md)
+- [Git Revert](git-revert-explanation.md)

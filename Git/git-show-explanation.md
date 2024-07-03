@@ -1,4 +1,4 @@
-# Git Show Command Guide
+# Git Show Command
 
 The basic syntax of `git show` is:
 
@@ -65,31 +65,37 @@ git show [options] <object>...
 ## Examples
 
 1. Show the most recent commit:
+
    ```
    git show
    ```
 
 2. Show a specific commit:
+
    ```
    git show abc123
    ```
 
 3. Show a specific tag:
+
    ```
    git show v1.0.0
    ```
 
 4. Show the last commit on a branch:
+
    ```
    git show feature-branch
    ```
 
 5. Show a file from a specific commit:
+
    ```
    git show abc123:path/to/file.txt
    ```
 
 6. Show commit with stat:
+
    ```
    git show --stat
    ```

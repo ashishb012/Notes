@@ -1,4 +1,4 @@
-# Git Diff Command Guide
+# Git Diff Command
 
 The basic syntax of `git diff` is:
 
@@ -60,26 +60,31 @@ git diff [options] [<commit>] [--] [<path>...]
 ## Examples
 
 1. Show unstaged changes:
+
    ```
    git diff
    ```
 
 2. Show staged changes:
+
    ```
    git diff --staged
    ```
 
 3. Compare with a specific commit:
+
    ```
    git diff abc123
    ```
 
 4. Compare two branches:
+
    ```
    git diff main feature-branch
    ```
 
 5. Show stat summary:
+
    ```
    git diff --stat
    ```

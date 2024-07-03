@@ -1,4 +1,4 @@
-# Git Stash Command Guide
+# Git Stash Command
 
 The basic syntax of `git stash` is:
 
@@ -22,6 +22,7 @@ git stash <subcommand> [<options>]
 ### git stash push [<options>]
 
 Options:
+
 - `-m <message>`, `--message <message>`: Specify a stash message
 - `-p`, `--patch`: Interactively select hunks to stash
 - `-k`, `--keep-index`: Keep the index; stash only unstaged changes
@@ -30,6 +31,7 @@ Options:
 - `-q`, `--quiet`: Suppress feedback messages
 
 Example:
+
 ```
 git stash push -m "Work in progress for feature X"
 ```
@@ -37,11 +39,13 @@ git stash push -m "Work in progress for feature X"
 ### git stash list [<options>]
 
 Options:
+
 - `--pretty[=<format>]`: Pretty-print the contents of the stash logs
 - `--format=<format>`: Specify format for the output
 - `--date=<format>`: Specify date format
 
 Example:
+
 ```
 git stash list --pretty=format:"%gd: %s"
 ```
@@ -49,12 +53,14 @@ git stash list --pretty=format:"%gd: %s"
 ### git stash show [<options>] [<stash>]
 
 Options:
+
 - `-p`, `--patch`: Show the stash entry in patch form
 - `--stat`: Show a diffstat of the stash entry
 - `--color[=<when>]`: Use color in output
 - `-u`, `--include-untracked`: Show untracked files
 
 Example:
+
 ```
 git stash show -p stash@{1}
 ```
@@ -62,10 +68,12 @@ git stash show -p stash@{1}
 ### git stash apply [<options>] [<stash>]
 
 Options:
+
 - `--index`: Try to reinstate index changes
 - `-q`, `--quiet`: Suppress feedback messages
 
 Example:
+
 ```
 git stash apply stash@{2}
 ```
@@ -73,10 +81,12 @@ git stash apply stash@{2}
 ### git stash pop [<options>] [<stash>]
 
 Options:
+
 - `--index`: Try to reinstate index changes
 - `-q`, `--quiet`: Suppress feedback messages
 
 Example:
+
 ```
 git stash pop
 ```
@@ -84,9 +94,11 @@ git stash pop
 ### git stash drop [<options>] [<stash>]
 
 Options:
+
 - `-q`, `--quiet`: Suppress feedback messages
 
 Example:
+
 ```
 git stash drop stash@{1}
 ```
@@ -96,6 +108,7 @@ git stash drop stash@{1}
 This command takes no options.
 
 Example:
+
 ```
 git stash clear
 ```
@@ -105,6 +118,7 @@ git stash clear
 This command creates a new branch with the stash applied, then drops the stash if it applied successfully.
 
 Example:
+
 ```
 git stash branch new-feature stash@{1}
 ```
