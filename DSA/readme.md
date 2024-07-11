@@ -5,32 +5,6 @@
 > - ## [Geeks For Geeks](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/)
 > - ## [programiz](https://www.programiz.com/dsa)
 
-## Data Structures
+## [Data Structures](Data_Structures.md)
 
-- ### Array
-- ### String
-- ### Linked List
-- ### Stack
-- ### Queue
-- ### Tree
-- ### Graph
-- ### Hash Table
-- ### Heap
-
-## Algorithms
-
-### Time Complexity
-
-### Space Complexity
-
-- ### Searching
-- ### Sorting
-- ### Divide and Conquer
-- ### Greedy
-- ### Dynamic Programming
-- ### Recursion
-- ### Backtracking
-- ### Bit Manipulation
-- ### Mathematical
-- ### Geometric
-- ### Pattern Searching
+## [Algorithms](Algorithms.md)
