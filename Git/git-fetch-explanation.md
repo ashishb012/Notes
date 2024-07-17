@@ -22,7 +22,7 @@ git fetch [<options>] [<repository> [<refspec>...]]
 10. `--negotiation-tip=<commit|glob>`: Specify which commit/glob to report while fetching to the server.
 11. `--negotiate-only`: Do not fetch, only print common ancestors.
 12. `--dry-run`: Show what would be done, without making any changes.
-13. `--write-fetch-head`: Write the list of remote refs fetched in the FETCH_HEAD file. (Default behavior)
+13. `--write-fetch-head`: Write the list of remote refs fetched in the FETCH_HEAD file. (Default behaviour)
 14. `--no-write-fetch-head`: Do not write the FETCH_HEAD file.
 15. `--force` or `-f`: Force overwriting of local reference.
 16. `--keep`: Keep downloaded pack.
@@ -52,26 +52,31 @@ git fetch [<options>] [<repository> [<refspec>...]]
 ## Examples
 
 1. Fetch from all remotes:
+
    ```
    git fetch --all
    ```
 
 2. Fetch from a specific remote:
+
    ```
    git fetch origin
    ```
 
 3. Fetch a specific branch:
+
    ```
    git fetch origin main
    ```
 
 4. Fetch and prune:
+
    ```
    git fetch --prune origin
    ```
 
 5. Fetch all tags:
+
    ```
    git fetch --tags
    ```
