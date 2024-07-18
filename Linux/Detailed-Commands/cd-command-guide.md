@@ -1,6 +1,6 @@
 # Comprehensive Guide to the 'cd' Command
 
-[Back to Linux Commands](readme.md)
+[Back to Linux Commands](../readme.md)
 
 The 'cd' command in Unix and Linux systems is used to change the current working directory. The name 'cd' stands for "change directory".
 
@@ -147,5 +147,5 @@ While 'cd' doesn't have many options, here are some that are available in most s
 
 Remember, while 'cd' is a simple command, it's fundamental to navigation in the command line interface. Mastering its use, especially in combination with other commands, is key to efficient work in Unix-like environments.
 
-[Back to Linux Commands](readme.md)
+[Back to Linux Commands](../readme.md)
 

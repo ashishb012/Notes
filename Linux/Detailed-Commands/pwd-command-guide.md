@@ -1,14 +1,14 @@
 # pwd Command Guide
 
+[Back to Linux Commands](../readme.md)
+
+The `pwd` command, which stands for "print working directory", is used to display the current working directory's full path. It shows the directory you are currently in within the filesystem hierarchy.
+
 ## Basic Syntax
 
 ```
 pwd [OPTION]...
 ```
-
-## Purpose
-
-The `pwd` command, which stands for "print working directory", is used to display the current working directory's full path. It shows the directory you are currently in within the filesystem hierarchy.
 
 ## Options
 
@@ -62,3 +62,5 @@ The `pwd` command, which stands for "print working directory", is used to displa
    ```
 
 Remember that `pwd` is a built-in shell command in many shells (like bash), which means it may have slightly different behavior or options compared to the standalone `/bin/pwd` command. Always check your specific system's documentation for the most accurate information.
+
+[Back to Linux Commands](../readme.md)

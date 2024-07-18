@@ -1,6 +1,6 @@
 # Comprehensive Guide to the 'ls' Command
 
-[Back to Linux Commands](readme.md)
+[Back to Linux Commands](../readme.md)
 
 The 'ls' command is used to list directory contents in Linux and Unix-based systems. Here's a detailed breakdown of its options and usage:
 
@@ -237,4 +237,4 @@ This command will list all files (including hidden ones) in long format, with hu
 
 Remember that the availability and exact behavior of some options may vary depending on your specific Linux distribution and version of the 'ls' command.
 
-[Back to Linux Commands](readme.md)
+[Back to Linux Commands](../readme.md)
