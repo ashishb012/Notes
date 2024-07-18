@@ -24,3 +24,5 @@
 ## Hash Table
 
 ## Heap
+
+[Back to DSA](readme.md)

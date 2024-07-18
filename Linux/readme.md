@@ -2,9 +2,9 @@
 
 ## File & Directory Commands
 
-- ### [`ls`: List directory contents]()
-- ### `cd`: Change directory
-- ### `pwd`: Print working directory
+- ### [`ls`: List directory contents](ls-command-guide.md)
+- ### [`cd`: Change directory](cd-command-guide.md)
+- ### [`pwd`: Print working directory](pwd-command-guide.md)
 - ### `mkdir`: Create directories
 - ### `rmdir`: Remove empty directories
 - ### `rm`: Remove files or directories

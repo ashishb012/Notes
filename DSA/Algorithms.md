@@ -32,3 +32,5 @@
 ## Geometric
 
 ## Pattern Searching
+
+[Back to DSA](readme.md)
