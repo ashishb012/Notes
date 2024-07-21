@@ -1,5 +1,7 @@
 # killall Command Guide
 
+[Back to Linux Commands](../readme.md)
+
 ## Basic Syntax
 
 ```
@@ -105,3 +107,5 @@ The `killall` command is used to kill processes by name. It sends a signal to al
     ```
 
 Remember to use `killall` with caution, especially when running as root, as it can terminate critical system processes. Always verify the processes you intend to kill before executing the command. For the most up-to-date and complete information, consult the manual (`man killall`) or the official documentation of your specific Linux distribution.
+
+[Back to Linux Commands](../readme.md)

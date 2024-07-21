@@ -1,5 +1,7 @@
 # The `ifconfig` Command
 
+[Back to Linux Commands](../readme.md)
+
 The `ifconfig` (interface configuration) command is used to configure, control, and query network interface parameters in Unix-like operating systems. It's primarily used for viewing and modifying network interface configurations.
 
 Note: On many modern Linux distributions, `ifconfig` is being replaced by the `ip` command, but `ifconfig` is still widely used and available.
@@ -124,3 +126,5 @@ eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
 - On many modern systems, `ifconfig` is considered deprecated in favor of the `ip` command.
 - The exact options and output may vary slightly between different Unix-like operating systems.
 - Changes made with `ifconfig` are typically not persistent across reboots. For persistent changes, modify the appropriate network configuration files.
+
+[Back to Linux Commands](../readme.md)

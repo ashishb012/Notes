@@ -1,5 +1,7 @@
 # The `fg` Command
 
+[Back to Linux Commands](../readme.md)
+
 The `fg` command is used in Unix-like operating systems to bring background jobs to the foreground. It's a shell built-in command, typically used in job control.
 
 ## Basic Syntax
@@ -81,3 +83,5 @@ The `fg` command, like `bg`, doesn't have many options itself. The main variatio
 - When a job is brought to the foreground, it can receive input from the terminal.
 - If the foreground job is stopped (e.g., with Ctrl+Z), you can use `bg` to resume it in the background or `fg` to bring it back to the foreground.
 - The behavior of `fg` can vary slightly between different shells (e.g., bash, zsh, fish).
+
+[Back to Linux Commands](../readme.md)

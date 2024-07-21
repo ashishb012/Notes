@@ -1,5 +1,7 @@
 # date Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `date` command in Unix-like operating systems is used to display or set the system date and time. Its basic syntax is:
 
 ```
@@ -128,3 +130,5 @@ When using `+FORMAT`, you can use various specifiers:
 8. For precise time measurements or synchronization, consider using specialized tools like `ntpdate` or `chrony`.
 
 Remember, while `date` is a powerful command for basic date and time operations, complex scenarios might require more specialized tools or programming solutions.
+
+[Back to Linux Commands](../readme.md)

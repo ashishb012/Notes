@@ -1,5 +1,7 @@
 # Comprehensive Guide to the 'diff' Command
 
+[Back to Linux Commands](../readme.md)
+
 The 'diff' command in Unix and Linux systems is used to compare files line by line. It can also compare directories. The output shows the changes required to make the first file identical to the second file.
 
 ## Basic Syntax
@@ -190,3 +192,5 @@ diff [OPTIONS] FILE1 FILE2
     ```
 
 Remember that the 'diff' command is often used in combination with other commands or in scripts for tasks like creating patches or checking for changes in files. The output of 'diff' can be further processed or used as input for other tools.
+
+[Back to Linux Commands](../readme.md)

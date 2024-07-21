@@ -1,5 +1,7 @@
 # The `jobs` Command
 
+[Back to Linux Commands](../readme.md)
+
 The `jobs` command is used in Unix-like operating systems to display the status of jobs in the current shell session. It's a shell built-in command, typically used in job control.
 
 ## Basic Syntax
@@ -97,3 +99,5 @@ The `jobs` command has several options:
 - It's often used in conjunction with `fg` and `bg` for job control.
 - The exact output format may vary slightly between different shells (e.g., bash, zsh, fish).
 - In most shells, you can also use `%n` (where n is the job number) to refer to a specific job in other commands.
+
+[Back to Linux Commands](../readme.md)

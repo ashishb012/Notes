@@ -1,5 +1,7 @@
 # head Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `head` command in Unix and Linux is used to output the first part of files. By default, it prints the first 10 lines of each file. Its basic syntax is:
 
 ```
@@ -97,3 +99,5 @@ Important Notes:
 - When using negative numbers with `-n`, it displays all but the last N lines, which can be useful for excluding footers or summary lines.
 - `head` is complementary to the `tail` command, which displays the end of files.
 
+
+[Back to Linux Commands](../readme.md)

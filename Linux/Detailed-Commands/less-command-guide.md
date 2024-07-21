@@ -1,5 +1,7 @@
 # less Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `less` command in Linux is a powerful pager that allows you to view and navigate through text files. Its basic syntax is:
 
 ```
@@ -120,3 +122,5 @@ Important Notes:
 - The `v` command in `less` opens the file in the default editor (usually set by the VISUAL or EDITOR environment variable).
 - `less` is particularly useful for viewing large log files or the output of long-running commands.
 
+
+[Back to Linux Commands](../readme.md)

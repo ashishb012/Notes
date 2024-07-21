@@ -1,5 +1,7 @@
 # The `ftp` Command
 
+[Back to Linux Commands](../readme.md)
+
 The `ftp` command is used to transfer files to and from a remote network site using the File Transfer Protocol (FTP). It provides an interactive interface for connecting to FTP servers, navigating directories, and transferring files.
 
 ## Basic Syntax
@@ -160,3 +162,5 @@ ftp [options] [host [port]]
 - Use `mget` and `mput` with caution, especially with wildcards, to avoid unintended file transfers.
 - The `prompt` command is useful to toggle confirmation for each file when using `mget` or `mput`.
 - Some FTP clients support scripting for automated tasks. Check your specific FTP client's documentation for details.
+
+[Back to Linux Commands](../readme.md)

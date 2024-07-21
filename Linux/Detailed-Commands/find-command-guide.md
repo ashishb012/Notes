@@ -1,5 +1,7 @@
 # find Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `find` command in Unix and Linux is used to search for files and directories in a directory hierarchy. Its basic syntax is:
 
 ```
@@ -111,3 +113,5 @@ find [path...] [expression]
     This prints each file's path and size.
 
 Remember to use `find` carefully, especially when combined with commands that modify or delete files. Always test your commands on a small subset of data first, particularly when using options like `-delete` or `-exec`.
+
+[Back to Linux Commands](../readme.md)

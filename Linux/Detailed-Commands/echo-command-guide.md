@@ -1,5 +1,7 @@
 # echo Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `echo` command in Unix and Linux systems is used to display a line of text or string that is passed as an argument. Its basic syntax is:
 
 ```
@@ -135,3 +137,5 @@ When used with the `-e` option, `echo` interprets the following backslash-escape
 
 Remember that the behavior of `echo` can vary slightly between different shells (like bash, zsh, etc.) and different versions of Unix-like systems. Always test your scripts in the specific environment where they will be run.
 
+
+[Back to Linux Commands](../readme.md)

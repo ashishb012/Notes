@@ -1,5 +1,7 @@
 # kill Command Guide
 
+[Back to Linux Commands](../readme.md)
+
 ## Basic Syntax
 
 ```
@@ -121,3 +123,5 @@ The `kill` command is used to send a signal to a process, typically to end the p
 5. Consider using safer alternatives like `pkill` or `killall` for targeting processes by name.
 
 Remember to always consult the manual (`man kill`) or use `kill --help` for the most up-to-date and system-specific information, as options may vary slightly between different Unix-like systems.
+
+[Back to Linux Commands](../readme.md)

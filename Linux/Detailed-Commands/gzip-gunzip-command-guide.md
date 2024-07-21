@@ -1,5 +1,7 @@
 # gzip and gunzip Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `gzip` command is used to compress files, while `gunzip` is used to decompress files compressed by gzip. These commands are often used in Unix and Linux systems for efficient file storage and transfer.
 
 ## gzip Command
@@ -151,3 +153,5 @@ tar xzvf archive.tar.gz
 ```
 
 `gzip` and `gunzip` are often used in pipelines with other commands for efficient data processing and transfer in Unix-like systems.
+
+[Back to Linux Commands](../readme.md)

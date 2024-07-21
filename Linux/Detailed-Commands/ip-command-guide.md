@@ -1,5 +1,7 @@
 # The `ip` Command
 
+[Back to Linux Commands](../readme.md)
+
 The `ip` command is a powerful and versatile networking tool used in Linux systems for configuring and managing network interfaces, routing, and tunnels. It's part of the iproute2 package and is considered the modern replacement for older networking commands like `ifconfig`, `route`, and `arp`.
 
 ## Basic Syntax
@@ -142,3 +144,5 @@ A typical `ip addr show` output looks like this:
 - Changes made with `ip` are not persistent across reboots unless saved in network configuration files.
 - The `ip` command is more powerful and flexible than older networking commands, offering a unified interface for various network-related tasks.
 - For persistent changes, modify the appropriate network configuration files specific to your Linux distribution.
+
+[Back to Linux Commands](../readme.md)

@@ -1,5 +1,7 @@
 # Comprehensive Guide to the 'grep' Command
 
+[Back to Linux Commands](../readme.md)
+
 The 'grep' command in Unix and Linux systems is used for searching and matching text patterns. The name 'grep' stands for "global regular expression print".
 
 ## Basic Syntax
@@ -200,3 +202,5 @@ grep [OPTIONS] PATTERN [FILE...]
     ```
 
 Remember that grep is a powerful tool, especially when combined with regular expressions. It's widely used in scripts and command-line operations for text processing and log analysis. Always be cautious when using grep with sudo or on system files to avoid unintended consequences.
+
+[Back to Linux Commands](../readme.md)

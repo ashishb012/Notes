@@ -1,5 +1,7 @@
 # Comprehensive Guide to the 'cut' Command
 
+[Back to Linux Commands](../readme.md)
+
 The 'cut' command in Unix and Linux is used to extract sections from each line of input (usually a file). It can select columns or fields based on delimiter, character positions, or byte positions.
 
 ## Basic Syntax
@@ -152,3 +154,5 @@ cut OPTION... [FILE]...
     ```
 
 Remember that 'cut' is particularly useful for processing structured text files, log files, and in shell scripts for data extraction. It's often used in combination with other commands like 'grep', 'sort', and 'uniq' for more complex text processing tasks.
+
+[Back to Linux Commands](../readme.md)
