@@ -1,5 +1,7 @@
 # Comprehensive Guide to the 'tr' Command
 
+[Back to Linux Commands](../readme.md)
+
 The 'tr' (translate) command in Unix and Linux is used to translate or delete characters. It can be used to perform various character-based operations like case conversion, basic character replacement, and removing specific characters from the input.
 
 ## Basic Syntax
@@ -143,3 +145,5 @@ tr [OPTION]... SET1 [SET2]
     ```
 
 Remember that 'tr' operates on a character-by-character basis and is particularly useful for simple text transformations. It's often used in shell scripts and command pipelines for text processing tasks. For more complex pattern matching and replacement, tools like 'sed' or 'awk' are typically used.
+
+[Back to Linux Commands](../readme.md)

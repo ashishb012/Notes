@@ -1,5 +1,7 @@
 # Comprehensive Guide to the 'uniq' Command
 
+[Back to Linux Commands](../readme.md)
+
 The 'uniq' command in Unix and Linux is used to report or filter out repeated lines in a file. It's often used in combination with the 'sort' command, as 'uniq' only detects adjacent duplicate lines.
 
 ## Basic Syntax
@@ -161,3 +163,5 @@ uniq [OPTIONS] [INPUT [OUTPUT]]
     ```
 
 Remember that 'uniq' only works on sorted input for comparing and removing duplicates across the entire file. That's why it's often used in combination with the 'sort' command. The 'uniq' command is particularly useful for data processing tasks, log file analysis, and any scenario where you need to identify or remove duplicate entries.
+
+[Back to Linux Commands](../readme.md)

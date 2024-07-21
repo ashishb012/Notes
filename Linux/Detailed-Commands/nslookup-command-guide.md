@@ -1,5 +1,7 @@
 # nslookup Command Guide
 
+[Back to Linux Commands](../readme.md)
+
 ## Basic Syntax
 
 ```
@@ -118,3 +120,5 @@ nslookup [option] [name | -] [server]
 5. For security investigations, compare results from multiple DNS servers.
 
 Remember to always consult the manual (`man nslookup`) or use `nslookup -help` for the most up-to-date and system-specific information, as options may vary slightly between different systems.
+
+[Back to Linux Commands](../readme.md)

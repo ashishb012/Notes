@@ -1,5 +1,7 @@
 # Comprehensive Guide to the 'sort' Command
 
+[Back to Linux Commands](../readme.md)
+
 The 'sort' command in Unix and Linux is used to sort lines of text files. It supports sorting alphabetically, numerically, by month, or based on a specific field in the file.
 
 ## Basic Syntax
@@ -190,3 +192,5 @@ sort [OPTIONS] [FILE(s)]
     ```
 
 Remember that 'sort' is very versatile and can be combined with other commands like 'uniq' for more complex data processing tasks. The ability to sort based on specific fields makes it particularly useful for working with structured data files.
+
+[Back to Linux Commands](../readme.md)

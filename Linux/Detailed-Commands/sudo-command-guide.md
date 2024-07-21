@@ -1,5 +1,7 @@
 # sudo Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `sudo` (superuser do) command in Linux allows users to run programs with the security privileges of another user, by default the superuser. Its basic syntax is:
 
 ```
@@ -123,3 +125,5 @@ sudo [OPTIONS] COMMAND
 10. Remember that with great power comes great responsibility. sudo gives you the ability to make system-wide changes, so use it carefully.
 
 Remember, while sudo is a powerful tool for system administration, it should be configured and used carefully to maintain system security and integrity.
+
+[Back to Linux Commands](../readme.md)

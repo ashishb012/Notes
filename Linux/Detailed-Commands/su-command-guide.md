@@ -1,5 +1,7 @@
 # su Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `su` (switch user) command in Linux is used to run a shell or command as a different user. Its basic syntax is:
 
 ```
@@ -104,3 +106,5 @@ If no username is specified, it defaults to the root user.
 8. The behavior of `su` can be affected by system configuration, particularly PAM (Pluggable Authentication Modules) settings.
 
 Remember, while `su` is a powerful tool, it should be used judiciously. In many cases, `sudo` provides a more secure and flexible approach to running commands with elevated privileges.
+
+[Back to Linux Commands](../readme.md)

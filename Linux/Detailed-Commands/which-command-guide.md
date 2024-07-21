@@ -1,5 +1,7 @@
 # which Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `which` command in Unix and Linux systems is used to locate the executable file associated with a given command. It searches for the command in the directories listed in the PATH environment variable. The basic syntax is:
 
 ```
@@ -93,3 +95,5 @@ Note: The available options can vary slightly between different Unix-like system
 Remember that `which` only searches for executable files in the directories listed in the PATH environment variable. It won't find shell built-ins, aliases, or functions. For a more comprehensive command lookup, you might want to use the `type` command in bash.
 
 Also, note that the behavior and available options of `which` can vary between different Unix-like systems. Always check the man pages (`man which`) on your specific system for the most accurate information.
+
+[Back to Linux Commands](../readme.md)

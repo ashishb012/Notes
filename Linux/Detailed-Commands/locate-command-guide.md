@@ -1,5 +1,7 @@
 # locate Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `locate` command in Unix and Linux systems is used to find files by name, quickly. It uses a previously built database of files and directories, which is typically updated daily via cron. The basic syntax is:
 
 ```
@@ -97,3 +99,5 @@ locate [OPTION]... PATTERN...
 Remember that `locate` relies on a database that is typically updated daily. For the most up-to-date results, especially for recently created or modified files, you may need to update the database manually using the `updatedb` command (usually requires root privileges).
 
 Also, note that `locate` will show all matching files, including those you might not have permission to access. To restrict results to files you can actually access, you might need to combine `locate` with other commands like `grep` or process the results further.
+
+[Back to Linux Commands](../readme.md)

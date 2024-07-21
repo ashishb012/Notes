@@ -1,5 +1,7 @@
 # tail Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `tail` command in Unix and Linux is used to output the last part of files. By default, it prints the last 10 lines of each file. Its basic syntax is:
 
 ```
@@ -113,3 +115,5 @@ Important Notes:
 - The `-n +NUM` syntax allows you to output all lines starting with line NUM, which can be useful for skipping headers.
 - `tail` is complementary to the `head` command, which displays the beginning of files.
 
+
+[Back to Linux Commands](../readme.md)

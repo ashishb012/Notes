@@ -1,5 +1,7 @@
 # zip and unzip Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `zip` and `unzip` commands are used to package and compress (archive) files, and to extract files from archives.
 
 ## zip Command
@@ -152,3 +154,5 @@ unzip [options] zipfile [file(s) to extract] [-d exdir]
 Remember that `zip` and `unzip` are widely used for cross-platform file compression and archiving. They maintain file attributes and can handle large files and directories. However, they don't offer as high compression ratios as some other formats like 7z or xz.
 
 When working with sensitive data, always use encryption (`-e` option in zip) to protect your archives, especially when transmitting over networks or storing in unsecured locations.
+
+[Back to Linux Commands](../readme.md)

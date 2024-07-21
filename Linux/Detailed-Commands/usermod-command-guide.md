@@ -1,5 +1,7 @@
 # usermod Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `usermod` command in Linux is used to modify a user account. It allows you to change various attributes of an existing user. Its basic syntax is:
 
 ```
@@ -115,3 +117,5 @@ usermod [OPTIONS] USERNAME
 7. Always check your system's man pages (`man usermod`) for the most accurate information for your specific system.
 
 Remember, modifying user accounts can have significant impacts on system access and functionality. Always double-check your commands, especially in production environments.
+
+[Back to Linux Commands](../readme.md)

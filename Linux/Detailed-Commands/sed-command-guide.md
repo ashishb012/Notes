@@ -1,5 +1,7 @@
 # Comprehensive Guide to the 'sed' Command
 
+[Back to Linux Commands](../readme.md)
+
 The 'sed' command in Unix and Linux systems is a stream editor used to perform basic text transformations on an input stream (a file or input from a pipeline). The name 'sed' stands for "stream editor".
 
 ## Basic Syntax
@@ -188,3 +190,5 @@ sed [OPTIONS] -f scriptfile file(s)
     ```
 
 Remember, sed is a powerful tool that can be used for complex text transformations. It's often used in shell scripts and in combination with other Unix/Linux commands. When used with the -i option, always be careful as it modifies files in-place. It's a good practice to make a backup before performing in-place edits.
+
+[Back to Linux Commands](../readme.md)

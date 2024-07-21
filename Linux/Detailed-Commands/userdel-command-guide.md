@@ -1,5 +1,7 @@
 # userdel Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `userdel` command in Linux is used to delete a user account and related files. Its basic syntax is:
 
 ```
@@ -67,3 +69,5 @@ userdel [OPTIONS] USERNAME
 7. Be very careful when deleting system users (UIDs < 1000 on many systems), as this can break system functionality.
 
 Remember, deleting a user account is a significant action and should be done with caution, especially on production systems.
+
+[Back to Linux Commands](../readme.md)

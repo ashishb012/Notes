@@ -1,5 +1,7 @@
 # more Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `more` command in Unix and Linux is a pager used to view text files one screen at a time. Its basic syntax is:
 
 ```
@@ -102,3 +104,5 @@ Important Notes:
 - `more` is still widely available and can be useful in scripts or on systems where `less` is not installed.
 - The `v` command to open an editor may not be available in all versions of `more`.
 
+
+[Back to Linux Commands](../readme.md)

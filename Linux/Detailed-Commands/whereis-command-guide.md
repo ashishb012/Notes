@@ -1,5 +1,7 @@
 # whereis Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `whereis` command in Unix and Linux systems is used to locate the binary, source, and manual page files for a specified command. Its basic syntax is:
 
 ```
@@ -98,3 +100,5 @@ whereis [options] name ...
 Remember that `whereis` is designed to find standard locations for binaries, manual pages, and source files. It may not find files located in non-standard directories or custom installations. For a more comprehensive search, you might need to use commands like `find` or `locate`.
 
 Also, the behavior and available options of `whereis` can vary slightly between different Unix-like systems. Always check the man pages (`man whereis`) on your specific system for the most accurate information.
+
+[Back to Linux Commands](../readme.md)

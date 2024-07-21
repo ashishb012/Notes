@@ -1,5 +1,7 @@
 # Comprehensive Guide to the 'scp' Command
 
+[Back to Linux Commands](../readme.md)
+
 The 'scp' (Secure Copy) command is used to securely copy files and directories between a local and a remote system, or between two remote systems. It uses SSH for data transfer and provides the same authentication and security as SSH.
 
 ## Basic Syntax
@@ -150,3 +152,5 @@ scp [OPTIONS] [[user@]host1:]file1 ... [[user@]host2:]file2
     ```
 
 Remember that 'scp' relies on SSH, so you need to have SSH access to the remote system. Also, the remote system must have the scp program available. Always be cautious when copying files, especially when using recursive options, to avoid overwriting important data.
+
+[Back to Linux Commands](../readme.md)

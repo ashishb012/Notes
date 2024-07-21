@@ -1,5 +1,7 @@
 # Comprehensive Guide to the 'paste' Command
 
+[Back to Linux Commands](../readme.md)
+
 The 'paste' command in Unix and Linux is used to merge lines of files horizontally (parallel merging). It's particularly useful for combining related data from multiple files or for creating tables from columnar data.
 
 ## Basic Syntax
@@ -120,3 +122,5 @@ paste [OPTION]... [FILE]...
     ```
 
 Remember that 'paste' is particularly useful for working with columnar data, creating simple tables, and merging related information from multiple sources. It's often used in shell scripts and data processing pipelines, frequently in combination with other text processing commands like 'cut', 'sed', and 'awk'.
+
+[Back to Linux Commands](../readme.md)

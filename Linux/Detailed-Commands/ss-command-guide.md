@@ -1,5 +1,7 @@
 # The `ss` Command
 
+[Back to Linux Commands](../readme.md)
+
 The `ss` (Socket Statistics) command is a powerful tool used to investigate sockets. It's a modern replacement for `netstat` and can display more TCP and state information than other tools.
 
 ## Basic Syntax
@@ -145,3 +147,5 @@ tcp    ESTAB   0       0       192.168.1.2:ssh     192.168.1.100:52986
 - It can show detailed TCP state information, which is useful for advanced troubleshooting.
 - The `-K` option for showing kernel socket memory usage is particularly useful for performance tuning.
 - Use `man ss` for a complete list of options and more detailed information.
+
+[Back to Linux Commands](../readme.md)

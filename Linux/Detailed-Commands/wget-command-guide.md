@@ -1,5 +1,7 @@
 # The `wget` Command
 
+[Back to Linux Commands](../readme.md)
+
 `wget` is a command-line utility for retrieving files using HTTP, HTTPS, and FTP protocols. It's non-interactive, meaning it can work in the background or in scripts.
 
 ## Basic Syntax
@@ -144,3 +146,5 @@ file.zip            100%[===================>]   1.18M  1.18MB/s    in 1.0s
 - For HTTPS URLs, `wget` verifies the certificate by default. Use `--no-check-certificate` to bypass this (not recommended for security reasons).
 - `wget` can handle redirects, but you might need to use `--max-redirect` to control the number of redirects followed.
 - The `-N` (or `--timestamping`) option is useful for keeping local copies of remote files up-to-date.
+
+[Back to Linux Commands](../readme.md)

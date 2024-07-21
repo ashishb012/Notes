@@ -1,5 +1,7 @@
 # Comprehensive Guide to the 'wc' Command
 
+[Back to Linux Commands](../readme.md)
+
 The 'wc' (word count) command in Unix and Linux is used to display the number of lines, words, and bytes in files. It's a versatile tool for quick file analysis and text processing.
 
 ## Basic Syntax
@@ -142,3 +144,5 @@ wc [OPTION]... [FILE]...
     ```
 
 Remember that 'wc' is particularly useful for quick file statistics, text analysis, and in shell scripts for processing text data. It's often used in combination with other commands like 'grep', 'sort', and 'head/tail' for more complex text processing tasks.
+
+[Back to Linux Commands](../readme.md)

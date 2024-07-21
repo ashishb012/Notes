@@ -1,5 +1,7 @@
 # useradd Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `useradd` command in Linux is used to create a new user account or update default new user information. Its basic syntax is:
 
 ```
@@ -94,3 +96,5 @@ useradd [OPTIONS] USERNAME
 Remember to use `sudo` with `useradd` as it requires root privileges. Also, after creating a user, you might want to set a password using the `passwd` command.
 
 Note: The exact behavior and available options of `useradd` can vary slightly between different Linux distributions. Always check your system's man pages (`man useradd`) for the most accurate information for your specific system.
+
+[Back to Linux Commands](../readme.md)

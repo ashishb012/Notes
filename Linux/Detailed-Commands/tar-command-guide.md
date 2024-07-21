@@ -1,5 +1,7 @@
 # tar Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `tar` (tape archive) command in Unix and Linux systems is used to create, maintain, modify, and extract files from archive files. Its basic syntax is:
 
 ```
@@ -118,3 +120,5 @@ tar [options] [archive-file] [file or directory to be archived]
 Remember that `tar` itself doesn't compress files; it only archives them. Compression is achieved by using options like `-z` (gzip), `-j` (bzip2), or `-J` (xz) or by piping to compression utilities.
 
 Also, be cautious when extracting archives from untrusted sources, as they may contain files that could overwrite existing files in your system.
+
+[Back to Linux Commands](../readme.md)

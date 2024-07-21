@@ -1,5 +1,7 @@
 # The `ping` Command
 
+[Back to Linux Commands](../readme.md)
+
 The `ping` command is a network administration utility used to test the reachability of a host on an Internet Protocol (IP) network and to measure the round-trip time for messages sent from the originating host to a destination computer.
 
 ## Basic Syntax
@@ -103,3 +105,5 @@ PING google.com (172.217.16.142) 56(84) bytes of data.
 - Continuous pinging can be considered a form of DoS attack if not used responsibly.
 - On Windows, `ping` stops after 4 packets by default. On Unix-like systems, it continues until stopped manually.
 - Root or administrator privileges may be required for some advanced options.
+
+[Back to Linux Commands](../readme.md)

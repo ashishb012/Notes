@@ -1,5 +1,7 @@
 # netstat Command Guide
 
+[Back to Linux Commands](../readme.md)
+
 ## Basic Syntax
 
 ```
@@ -107,3 +109,5 @@ The `netstat` (network statistics) command is a useful tool for monitoring netwo
 Remember that on many modern Linux systems, `netstat` is considered deprecated and the `ss` command is recommended as its replacement. However, `netstat` is still widely used and available on most systems.
 
 For the most up-to-date and complete information, always refer to the manual (`man netstat`) or the official documentation of your specific Linux distribution.
+
+[Back to Linux Commands](../readme.md)

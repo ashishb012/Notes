@@ -1,5 +1,7 @@
 # pkill Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `pkill` command in Unix and Linux is used to send signals to processes based on their name or other attributes. It's a combination of `pgrep` and `kill`. Its basic syntax is:
 
 ```
@@ -117,3 +119,5 @@ Important Notes:
 - Always double-check the pattern before running `pkill`, especially when using it with sudo.
 - `pkill` is related to `pgrep`, which finds processes but doesn't send signals.
 
+
+[Back to Linux Commands](../readme.md)

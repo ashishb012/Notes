@@ -1,5 +1,7 @@
 # unalias Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `unalias` command in Unix-like operating systems is used to remove aliases that have been previously defined. Its basic syntax is:
 
 ```
@@ -88,3 +90,5 @@ Note: The availability of `--help` and `--version` options may vary depending on
 9. If you're unsure about removing an alias permanently, you can always use the `alias` command without arguments to list all current aliases and check before removing.
 
 The `unalias` command is a simple but crucial tool for managing your shell environment, allowing you to remove shortcuts that are no longer needed or to reset your alias configuration to a known state.
+
+[Back to Linux Commands](../readme.md)

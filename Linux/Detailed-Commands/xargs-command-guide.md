@@ -1,5 +1,7 @@
 # xargs Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `xargs` command in Unix and Linux is used to build and execute command lines from standard input. It's particularly useful for applying a command to a list of files or piping output from one command to another. The basic syntax is:
 
 ```
@@ -93,3 +95,5 @@ xargs [OPTIONS] [COMMAND [INITIAL-ARGUMENTS]]
     This uses `:` as the delimiter instead of whitespace.
 
 Remember to use `xargs` carefully, especially when used with commands that modify or delete files. Always test your commands on a small subset of data first.
+
+[Back to Linux Commands](../readme.md)

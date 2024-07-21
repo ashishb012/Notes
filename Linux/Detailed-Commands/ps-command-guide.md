@@ -1,5 +1,7 @@
 # Comprehensive Guide to the 'ps' Command
 
+[Back to Linux Commands](../readme.md)
+
 The 'ps' command in Unix and Linux systems is used to provide information about currently running processes. The name 'ps' stands for "process status".
 
 ## Basic Syntax
@@ -233,3 +235,5 @@ ps accepts several styles of options:
     ```
 
 Remember, the 'ps' command provides a snapshot of the current processes. For continuous monitoring, you might want to use commands like 'top' or 'htop'. Also, different Unix-like systems might have slight variations in the available options and their exact behavior.
+
+[Back to Linux Commands](../readme.md)

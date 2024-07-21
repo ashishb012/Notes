@@ -1,5 +1,7 @@
 # passwd Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `passwd` command in Linux is used to change user account passwords and modify password attributes. Its basic syntax is:
 
 ```
@@ -110,3 +112,5 @@ If no username is specified, it changes the password for the current user.
 8. Be cautious when using `passwd` in scripts, as it typically requires interactive input. For scripting, consider using `chpasswd` instead.
 
 Remember, password management is crucial for system security. Always use strong, unique passwords and follow your organization's password policies.
+
+[Back to Linux Commands](../readme.md)
