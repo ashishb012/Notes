@@ -24,23 +24,77 @@
 
 ## File Viewing
 
-- ###
+- ### [`cat`: Concatenate files and print on the standard output](Detailed-Commands/cat-command-guide.md)
+
+- ### [`more`: View file contents one screen at a time](Detailed-Commands/more-command-guide.md)
+
+- ### [`less`: View file contents with backward movement](Detailed-Commands/less-command-guide.md)
+
+- ### [`head`: Output the first part of files](Detailed-Commands/head-command-guide.md)
+
+- ### [`tail`: Output the last part of files](Detailed-Commands/tail-command-guide.md)
+
 
 ## File Permissions and Ownership
 
-- ###
+- ### [`chmod`: Change file modes or access control lists](Detailed-Commands/chmod-command-guide.md) 
+
+- ### [`chown`: Change file owner and group](Detailed-Commands/chown-command-guide.md)
+
+- ### [`chgrp`: Change group ownership](Detailed-Commands/chgrp-command-guide.md)
 
 ## Text Processing
 
-- ###
+- ### [`grep`: Search for a pattern in a file](Detailed-Commands/grep-command-guide.md)
+
+- ### [`sed`: Stream editor for filtering and transforming text](Detailed-Commands/sed-command-guide.md)
+
+- ### [`awk`: Pattern scanning and processing language](Detailed-Commands/awk-command-guide.md)
+
+- ### [`sort`: Sort lines of text files](Detailed-Commands/sort-command-guide.md)
+
+- ### [`uniq`: Report or omit repeated lines](Detailed-Commands/uniq-command-guide.md)
+
+- ### [`cut`: Remove sections from each line of files](Detailed-Commands/cut-command-guide.md)
+
+- ### [`paste`: Merge lines of files](Detailed-Commands/paste-command-guide.md)
+
+- ### [`wc`: Print newline, word, and byte counts for each file](Detailed-Commands/wc-command-guide.md)
+
+- ### [`tr`: Translate or delete characters](Detailed-Commands/tr-command-guide.md)
+
+- ### [`diff`: Compare files line by line](Detailed-Commands/diff-command-guide.md)
+
+- ### [`cmp`: Compare two files byte by byte](Detailed-Commands/cmp-command-guide.md)
 
 ## File Compression
 
-- ###
+- ### [`tar`: Archive files](Detailed-Commands/tar-command-guide.md)
+
+- ### [`gzip`: Compress files](Detailed-Commands/gzip-gunzip-command-guide.md)
+
+- ### [`gunzip`: Decompress files](Detailed-Commands/gzip-gunzip-command-guide.md)
+
+- ### [`zip`: Package and compress files](Detailed-Commands/zip-unzip-command-guide.md)
+
+- ### [`unzip`: Extract compressed files](Detailed-Commands/zip-unzip-command-guide.md)
 
 ## Process Management
 
-- ###
+- ### [`ps`: Report a snapshot of current processes](Detailed-Commands/ps-command-guide.md)
+
+- ### [`kill`: Terminate processes](Detailed-Commands/kill-command-guide.md)
+
+- ### [`pkill`: Kill processes by name](Detailed-Commands/kill-command-guide.md)
+
+- ### [`killall`: Kill processes by name](Detailed-Commands/kill-command-guide.md)
+
+- ### [`bg`: Resume suspended jobs in the background](Detailed-Commands/bg-command-guide.md)
+
+- ### [`fg`: Bring jobs to the foreground](Detailed-Commands/fg-command-guide.md)
+
+- ### [`jobs`: List active jobs](Detailed-Commands/jobs-command-guide.md)
+
 
 ## Networking 
 
