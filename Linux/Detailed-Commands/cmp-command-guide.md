@@ -1,5 +1,7 @@
 # Comprehensive Guide to the 'cmp' Command
 
+[Back to Linux Commands](../readme.md)
+
 The 'cmp' command in Unix and Linux systems is used to compare two files byte by byte. It's particularly useful for comparing binary files or when you need to know the exact position of the first difference between two files.
 
 ## Basic Syntax
@@ -153,3 +155,5 @@ SKIP1 and SKIP2 are optional offsets (in bytes) to start comparison from in FILE
 - The exit status of 'cmp' can be used in shell scripts for conditional operations.
 
 Remember that 'cmp' compares files byte by byte, so it's sensitive to all differences, including whitespace and line endings. For text file comparisons where you want to ignore certain types of differences, 'diff' might be more appropriate.
+
+[Back to Linux Commands](../readme.md)

@@ -1,5 +1,7 @@
 # Comprehensive Guide to the 'awk' Command
 
+[Back to Linux Commands](../readme.md)
+
 The 'awk' command is a powerful text-processing tool in Unix and Linux systems. It's named after its creators: Aho, Weinberger, and Kernighan. Awk is particularly useful for processing and analyzing structured text data.
 
 ## Basic Syntax
@@ -225,3 +227,5 @@ An AWK program typically consists of:
     ```
 
 Remember, awk is a powerful tool for text processing and data extraction. It's particularly useful for working with structured data like CSV files or log files. When used in combination with other Unix commands, it can perform complex data manipulations efficiently.
+
+[Back to Linux Commands](../readme.md)

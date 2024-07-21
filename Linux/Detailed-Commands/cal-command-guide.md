@@ -1,5 +1,7 @@
 # cal Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `cal` (calendar) command in Unix-like operating systems is used to display a calendar in the terminal. Its basic syntax is:
 
 ```
@@ -100,3 +102,5 @@ Note: Some systems may have slightly different options. Always check `man cal` f
 6. If you need to process calendar data programmatically, consider using more robust tools or libraries in languages like Python, which offer more extensive date and time manipulation capabilities.
 
 Remember, while `cal` is a simple command, it can be quite useful for quick date references and in scripts that need to handle calendar-based logic.
+
+[Back to Linux Commands](../readme.md)

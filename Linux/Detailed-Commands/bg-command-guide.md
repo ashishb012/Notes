@@ -1,5 +1,7 @@
 # The `bg` Command
 
+[Back to Linux Commands](../readme.md)
+
 The `bg` command is used in Unix-like operating systems to resume suspended jobs in the background. It's a shell built-in command, typically used in job control.
 
 ## Basic Syntax
@@ -81,3 +83,5 @@ The `bg` command doesn't have many options itself. The main variation is in spec
 - The `bg` command is most useful in interactive shell sessions.
 - It's often used in conjunction with job control commands like `fg`, `jobs`, and keyboard shortcuts like Ctrl+Z.
 - The behavior of `bg` can vary slightly between different shells (e.g., bash, zsh, fish).
+
+[Back to Linux Commands](../readme.md)

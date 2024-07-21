@@ -1,5 +1,7 @@
 # alias Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `alias` command in Unix-like operating systems is used to create shortcuts or abbreviations for longer commands. Its basic syntax is:
 
 ```
@@ -105,3 +107,5 @@ Note: The exact behavior might slightly vary depending on the shell you're using
 10. Remember that aliases are expanded only once, at the beginning of the command. This can affect how they interact with other shell features.
 
 Aliases are a powerful way to customize your shell environment and increase productivity by creating shortcuts for frequently used commands or command combinations.
+
+[Back to Linux Commands](../readme.md)

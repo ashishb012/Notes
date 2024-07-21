@@ -1,5 +1,7 @@
 # curl Command Guide
 
+[Back to Linux Commands](../readme.md)
+
 ## Basic Syntax
 
 ```
@@ -104,3 +106,5 @@ curl [options] [URL]
     ```
 
 These examples cover a wide range of use cases, but curl has many more options and capabilities. Always refer to the manual (`man curl`) or the official documentation for the most up-to-date and complete information.
+
+[Back to Linux Commands](../readme.md)

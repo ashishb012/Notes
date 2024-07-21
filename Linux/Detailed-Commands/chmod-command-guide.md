@@ -1,5 +1,7 @@
 # Comprehensive Guide to the 'chmod' Command
 
+[Back to Linux Commands](../readme.md)
+
 The 'chmod' command in Unix and Linux systems is used to change the access permissions of files and directories. The name 'chmod' stands for "change mode".
 
 ## Basic Syntax
@@ -184,3 +186,5 @@ Permissions can be specified in two ways:
     ```
 
 Remember that to use 'chmod', you typically need to be the owner of the file or have superuser (root) privileges. Always be cautious when changing permissions, especially when using the recursive option, as it can affect system functionality if used incorrectly.
+
+[Back to Linux Commands](../readme.md)

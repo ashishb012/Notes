@@ -1,5 +1,7 @@
 # chgrp Command Guide: Options and Examples
 
+[Back to Linux Commands](../readme.md)
+
 The `chgrp` command in Linux is used to change the group ownership of files and directories. The basic syntax is:
 
 ```
@@ -80,3 +82,5 @@ Important Notes:
 - The `--preserve-root` option is a safety measure to prevent recursive operations on the entire file system.
 - Remember that changing group ownership may affect file access and security.
 
+
+[Back to Linux Commands](../readme.md)

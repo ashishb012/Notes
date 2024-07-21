@@ -1,5 +1,7 @@
 # Comprehensive Guide to the 'chown' Command
 
+[Back to Linux Commands](../readme.md)
+
 The 'chown' command in Unix and Linux systems is used to change the owner and group of files and directories. The name 'chown' stands for "change owner".
 
 ## Basic Syntax
@@ -155,3 +157,5 @@ chown [OPTIONS] OWNER[:GROUP] FILE(s)
     ```
 
 Remember that to use 'chown', you typically need superuser (root) privileges or to be the owner of the file. Always be cautious when changing ownership, especially when using the recursive option, as it can affect system functionality if used incorrectly.
+
+[Back to Linux Commands](../readme.md)
