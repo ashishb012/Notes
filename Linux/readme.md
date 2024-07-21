@@ -98,11 +98,41 @@
 
 ## Networking 
 
-- ###
+- ### [`ping`: Send ICMP ECHO_REQUEST to network hosts](Detailed-Commands/ping-command-guide.md)
+
+- ### [`ifconfig`: Configure a network interface](Detailed-Commands/ifconfig-command-guide.md)
+
+- ### [`ip`: Show/manipulate routing, devices, policy routing, and tunnels](Detailed-Commands/ip-command-guide.md)
+
+- ### [`netstat`: Print network connections, routing tables, interface statistics](Detailed-Commands/netstat-command-guide.md)
+
+- ### [`ss`: Another utility to investigate sockets](Detailed-Commands/ss-command-guide.md)
+
+- ### [`scp`: Secure copy files between hosts](Detailed-Commands/scp-command-guide.md)
+
+- ### [`ftp`: File Transfer Protocol client](Detailed-Commands/ftp-command-guide.md)
+
+- ### [`wget`: Non-interactive network downloader](Detailed-Commands/wget-command-guide.md)
+
+- ### [`curl`: Transfer data from or to a server](Detailed-Commands/curl-command-guide.md)
+
+- ### [`nslookup`: Query Internet name servers interactively](Detailed-Commands/nslookup-command-guide.md)
+
 
 ## User Management
 
-- ###
+- ### [`useradd`: Create a new user or update default new user information](Detailed-Commands/useradd-command-guide.md)
+
+- ### [`userdel`: Delete a user account and related files](Detailed-Commands/userdel-command-guide.md)
+
+- ### [`usermod`: Modify a user account](Detailed-Commands/usermod-command-guide.md)
+
+- ### [`passwd`: Change user password](Detailed-Commands/passwd-command-guide.md)
+
+- ### [`su`: Substitute user identity](Detailed-Commands/su-command-guide.md)
+
+- ### [`sudo`: Execute a command as another user](Detailed-Commands/sudo-command-guide.md)
+
 
 ## File System Management
 
@@ -110,10 +140,26 @@
 
 ## Utilities
 
-- ###
+- ### [`xargs`: Build and execute command lines from standard input](Detailed-Commands/xargs-command-guide.md)
 
-## Miscellaneous
+- ### [`find`: Search for files in a directory hierarchy](Detailed-Commands/find-command-guide.md)
 
-- ###
+- ### [`locate`: Find files by name](Detailed-Commands/locate-command-guide.md)
+
+- ### [`which`: Locate a command](Detailed-Commands/which-command-guide.md)
+
+- ### [`whereis`: Locate the binary, source, and manual page files for a command](Detailed-Commands/whereis-command-guide.md)
+
+- ### [`echo`: Display a line of text](Detailed-Commands/echo-command-guide.md)
+
+- ### [`date`: Display or set the system date and time](Detailed-Commands/date-command-guide.md)
+
+- ### [`cal`: Display a calendar](Detailed-Commands/cal-command-guide.md)
+
+- ### [`alias`: Create an alias for a command](Detailed-Commands/alias-command-guide.md)
+
+- ### [`unalias`: Remove an alias](Detailed-Commands/unalias-command-guide.md)
+
+
 
 
